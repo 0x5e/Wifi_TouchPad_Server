@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Remote_Control_Server", "Remote_Control_Server\Remote_Control_Server.csproj", "{0B1CE1CA-C3AC-4180-BBD5-4093EE240CAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "client", "client\client.csproj", "{BFAE29D5-F953-4743-A24C-E9E36A5188A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B1CE1CA-C3AC-4180-BBD5-4093EE240CAC}.Debug|x86.ActiveCfg = Debug|x86
+		{0B1CE1CA-C3AC-4180-BBD5-4093EE240CAC}.Debug|x86.Build.0 = Debug|x86
+		{0B1CE1CA-C3AC-4180-BBD5-4093EE240CAC}.Release|x86.ActiveCfg = Release|x86
+		{0B1CE1CA-C3AC-4180-BBD5-4093EE240CAC}.Release|x86.Build.0 = Release|x86
+		{BFAE29D5-F953-4743-A24C-E9E36A5188A8}.Debug|x86.ActiveCfg = Debug|x86
+		{BFAE29D5-F953-4743-A24C-E9E36A5188A8}.Debug|x86.Build.0 = Debug|x86
+		{BFAE29D5-F953-4743-A24C-E9E36A5188A8}.Release|x86.ActiveCfg = Release|x86
+		{BFAE29D5-F953-4743-A24C-E9E36A5188A8}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
